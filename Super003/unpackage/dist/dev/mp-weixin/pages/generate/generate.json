@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "生成代码",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#2B2D30",
+  "backgroundColorTop": "#2B2D30",
+  "backgroundColorBottom": "#2B2D30",
+  "usingComponents": {
+    "mp-html": "/components/mp-html/mp-html"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "人像生成",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "mp-html": "/components/mp-html/mp-html"
+  }
+}

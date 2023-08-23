@@ -1,0 +1,35 @@
+server:
+  # SSL证书
+#  ssl:
+#    key-store: classpath:XXX.pfx
+#    key-store-password: 证书密码
+#    key-store-type: PKCS12
+
+# 微信APPID
+we-chat:
+  appId: 'wx702314decfab3839'
+  secret: '070f1493b81740354dce17ae18191331'
+
+spring:
+  data:
+    redis:
+      database: 3
+      host: 192.168.2.203
+      port: 6379
+      password: 6kT6nhKy5WacIsVN
+  datasource:
+    url: jdbc:mysql://192.168.2.203:3306/chat_bot?useUnicode=true&serverTimezone=Asia/Shanghai&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&autoReconnect=true&allowMultiQueries=true&useSSL=true
+    username: root
+    password: root@123456
+
+# 管理员账号
+console:
+  account: 'bdth'
+  password: 'nb'
+
+# 缓存路径
+file:
+  path: E://upload/
+  # 服务器域名
+  domain: http://127.0.0.1:8624
+

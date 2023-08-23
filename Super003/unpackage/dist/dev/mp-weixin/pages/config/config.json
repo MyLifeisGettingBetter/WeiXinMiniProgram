@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "服务器配置",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#2B2D30",
+  "backgroundColorTop": "#2B2D30",
+  "backgroundColorBottom": "#2B2D30",
+  "usingComponents": {}
+}

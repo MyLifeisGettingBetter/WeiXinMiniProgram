@@ -1,0 +1,61 @@
+{
+  "pages": [
+    "pages/dialogue/dialogue",
+    "pages/drawing/drawing",
+    "pages/touch/touch",
+    "pages/member/member",
+    "pages/originality/originality",
+    "pages/panel/panel",
+    "pages/translation/translation",
+    "pages/generate/generate",
+    "pages/server/server",
+    "pages/config/config",
+    "pages/bing/bing",
+    "pages/portrait/portrait",
+    "pages/erine/erine",
+    "pages/privacy/privacy",
+    "pages/concerning/concerning",
+    "pages/dialogues/dialogues",
+    "pages/exchange/exchange"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "SuperBot",
+    "navigationBarBackgroundColor": "#2B2D30",
+    "backgroundColor": "#2B2D30"
+  },
+  "tabBar": {
+    "selectedColor": "#ffffff",
+    "backgroundColor": "#2B2D30",
+    "color": "#666666",
+    "list": [
+      {
+        "pagePath": "pages/dialogue/dialogue",
+        "iconPath": "static/images/icon/businesscard_.png",
+        "selectedIconPath": "static/images/icon/businesscard.png",
+        "text": "问答"
+      },
+      {
+        "pagePath": "pages/drawing/drawing",
+        "iconPath": "static/images/icon/dynamic_.png",
+        "selectedIconPath": "static/images/icon/dynamic.png",
+        "text": "绘图"
+      },
+      {
+        "pagePath": "pages/originality/originality",
+        "iconPath": "static/images/icon/int_fill_.png",
+        "selectedIconPath": "static/images/icon/int_fill.png",
+        "text": "探索"
+      },
+      {
+        "pagePath": "pages/member/member",
+        "iconPath": "static/images/icon/interactive_.png",
+        "selectedIconPath": "static/images/icon/interactive.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "lazyCodeLoading": "requiredComponents",
+  "usingComponents": {}
+}

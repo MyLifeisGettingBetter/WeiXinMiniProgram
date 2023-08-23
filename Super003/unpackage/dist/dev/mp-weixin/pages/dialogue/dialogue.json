@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "Stan",
+  "navigationBarBackgroundColor": "#2B2D30",
+  "backgroundColorTop": "#2B2D30",
+  "backgroundColorBottom": "#2B2D30",
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "mp-html": "/components/mp-html/mp-html",
+    "touch": "/pages/touch/touch",
+    "panel": "/pages/panel/panel"
+  }
+}
